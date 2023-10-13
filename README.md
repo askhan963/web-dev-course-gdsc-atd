@@ -19,8 +19,8 @@ Welcome to the Web Development course hosted by GDSC Abbottabad. This README wil
 </p>
 <div align="center">
 
- <h1> M Awais Khan</h1>
-  <h1> Web Ninja</h1>
+ <p font="bold"> M Awais Khan</p>
+  <p> Web Ninja</p>
 </div>
 
 ---
