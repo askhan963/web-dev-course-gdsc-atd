@@ -17,9 +17,11 @@ Welcome to the Web Development course hosted by GDSC Abbottabad. This README wil
 <p align="center">
     <img width="200" src="https://github.com/askhan963/web-dev-course-gdsc-atd/blob/main/assests/img-awais.jpg" alt="Instructor Image" style="border-radius:50%" >
 </p>
- 
-**M Awais Khan** 
-**Web Ninja**
+<div align="center">
+
+ <h1> M Awais Khan</h1>
+  <h1> Web Ninja</h1>
+</div>
 
 ---
 
