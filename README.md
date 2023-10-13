@@ -1,7 +1,7 @@
 # Web Development Course at GDSC Abbottabad
 
 Welcome to the Web Development course hosted by GDSC Abbottabad. This README will guide you through the contents covered in each session.
-![https://github.com/askhan963/web-dev-course-gdsc-atd/blob/main/assests/gdsc.jpeg]
+![GDSC](https://github.com/askhan963/web-dev-course-gdsc-atd/blob/main/assests/gdsc.jpeg)
 ---
 
 ## Table of Contents
