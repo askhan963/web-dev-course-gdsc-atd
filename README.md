@@ -13,6 +13,10 @@ Welcome to the Web Development course hosted by GDSC Abbottabad. This README wil
 
 
 **Instructor:**  
+
+<p align="center">
+    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://github.com/askhan963/web-dev-course-gdsc-atd/blob/main/assests/gdsc.jpeg)" alt="Material Bread logo">
+</p>
 ![M Awais Khan](RoundImage_Name.jpg)  
 **M Awais Khan** 
 **Web Ninja**
