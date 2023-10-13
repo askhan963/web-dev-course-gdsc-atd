@@ -6,7 +6,7 @@ Welcome to the Web Development course hosted by GDSC Abbottabad. This README wil
 ---
 
 ## Table of Contents
-- [Session 1: Introduction to Web Development](#session-1-introduction-to-web-development)
+- [Session 1: Introduction to Web Development](https://github.com/askhan963/web-dev-course-gdsc-atd/tree/main/Session%201)
 
 ---
 
