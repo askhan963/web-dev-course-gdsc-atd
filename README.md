@@ -11,24 +11,41 @@ Welcome to the Web Development course hosted by GDSC Abbottabad. This README wil
 - [📌 Session 2: Intro To HTML](https://github.com/askhan963/web-dev-course-gdsc-atd/tree/main/session2)
 
 ---
-**📺 Recommended YouTube Channels**
-For a deeper dive into web development and to continue your learning journey, we recommend the following YouTube channels. These creators provide valuable content, tutorials, and insights that can immensely benefit you:
+<div align="center">
+    <h2>📺 Recommended YouTube Channels</h2>
+    <p>Enhance your web development journey with these handpicked YouTube channels. They provide in-depth tutorials, insights, and much more!</p>
+</div>
 
-**Traversy Media**
-📌 Link to Channel
-Description: A hub of web development tutorials ranging from the basics to advanced topics.
-
-**The Net Ninja**
-📌 [Go to the Channel](https://www.youtube.com/@TraversyMedia)
-Description: Detailed courses on various web technologies, ensuring a thorough grasp of the subject.
-
-
-Dev Ed
-📌 Link to Channel
-Description: A fun approach to learning web development with engaging visuals and content.
-
-Feel free to explore these channels and discover new ones on your path to becoming an expert web developer. Remember, the key is consistent learning and practice!
 ---
+
+- ### **Traversy Media** 🚀
+    - 🔗 [Visit Channel](https://www.youtube.com/user/TechGuyWeb)
+    - 📝 *Overview:* A comprehensive collection of web development tutorials, from basics to advanced topics.
+
+---
+
+- ### **The Net Ninja** 🥷
+    - 🔗 [Visit Channel](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+    - 📝 *Overview:* Master various web technologies with step-by-step and in-depth courses.
+
+---
+
+- ### **Academind** 🧠
+    - 🔗 [Visit Channel](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+    - 📝 *Overview:* Delve deep into both frontend and backend technologies, and gain a holistic understanding.
+
+---
+
+- ### **Dev Ed** 🎨
+    - 🔗 [Visit Channel](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+    - 📝 *Overview:* Learn web development with a twist of fun, creativity, and engaging content.
+
+---
+
+<div align="center">
+    <b>🔍 Explore, Learn, and Create! Your journey to becoming a proficient web developer starts here. 🔍</b>
+</div>
+
 
 **👨‍🏫 Instructor:**  
 
