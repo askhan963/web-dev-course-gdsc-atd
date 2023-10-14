@@ -16,31 +16,27 @@ Welcome to the Web Development course hosted by GDSC Abbottabad. This README wil
     <p>Enhance your web development journey with these handpicked YouTube channels. They provide in-depth tutorials, insights, and much more!</p>
 </div>
 
----
 
 - ### **Traversy Media** 🚀
-    - 🔗 [Visit Channel](https://www.youtube.com/user/TechGuyWeb)
+    - 🔗 [Visit Channel](https://www.youtube.com/@TraversyMedia)
     - 📝 *Overview:* A comprehensive collection of web development tutorials, from basics to advanced topics.
 
 ---
 
-- ### **The Net Ninja** 🥷
-    - 🔗 [Visit Channel](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- ### **The JAvaScript Mastery** 🥷
+    - 🔗 [Visit Channel](https://www.youtube.com/@javascriptmastery)
     - 📝 *Overview:* Master various web technologies with step-by-step and in-depth courses.
 
----
 
-- ### **Academind** 🧠
-    - 🔗 [Visit Channel](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+- ### **Hitesh Choudery** 🧠
+    - 🔗 [Visit Channel](https://www.youtube.com/@HiteshChoudharydotcom)
     - 📝 *Overview:* Delve deep into both frontend and backend technologies, and gain a holistic understanding.
 
----
 
 - ### **Dev Ed** 🎨
-    - 🔗 [Visit Channel](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+    - 🔗 [Visit Channel](https://www.youtube.com/@developedbyed)
     - 📝 *Overview:* Learn web development with a twist of fun, creativity, and engaging content.
 
----
 
 <div align="center">
     <b>🔍 Explore, Learn, and Create! Your journey to becoming a proficient web developer starts here. 🔍</b>
