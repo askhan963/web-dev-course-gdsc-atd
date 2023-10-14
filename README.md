@@ -11,6 +11,24 @@ Welcome to the Web Development course hosted by GDSC Abbottabad. This README wil
 - [📌 Session 2: Intro To HTML](https://github.com/askhan963/web-dev-course-gdsc-atd/tree/main/session2)
 
 ---
+**📺 Recommended YouTube Channels**
+For a deeper dive into web development and to continue your learning journey, we recommend the following YouTube channels. These creators provide valuable content, tutorials, and insights that can immensely benefit you:
+
+**Traversy Media**
+📌 Link to Channel
+Description: A hub of web development tutorials ranging from the basics to advanced topics.
+
+**The Net Ninja**
+📌 [Go to the Channel](https://www.youtube.com/@TraversyMedia)
+Description: Detailed courses on various web technologies, ensuring a thorough grasp of the subject.
+
+
+Dev Ed
+📌 Link to Channel
+Description: A fun approach to learning web development with engaging visuals and content.
+
+Feel free to explore these channels and discover new ones on your path to becoming an expert web developer. Remember, the key is consistent learning and practice!
+---
 
 **👨‍🏫 Instructor:**  
 
