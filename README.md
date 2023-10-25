@@ -9,6 +9,7 @@ Welcome to the Web Development course hosted by GDSC Abbottabad. This README wil
 ## 📋 Table of Contents
 - [📌 Session 1: Introduction to Web Development](https://github.com/askhan963/web-dev-course-gdsc-atd/tree/main/Session%201)
 - [📌 Session 2: Intro To HTML](https://github.com/askhan963/web-dev-course-gdsc-atd/tree/main/session2)
+- [📌 Session 3: Forms and Tables](https://github.com/askhan963/web-dev-course-gdsc-atd/tree/main/session3)
 
 ---
 <div align="center">
@@ -27,7 +28,7 @@ Welcome to the Web Development course hosted by GDSC Abbottabad. This README wil
 
 - ### **Hitesh Choudery** 🧠
     - 🔗 [Visit Channel](https://www.youtube.com/@HiteshChoudharydotcom)
-    - 📝 *Overview:* Delve deep into both frontend and backend technologies, and gain a holistic understanding.
+    - 📝 *Overview:* Delve deep into front and backend technologies, and gain a holistic understanding.
 
 - ### **Dev Ed** 🎨
     - 🔗 [Visit Channel](https://www.youtube.com/@developedbyed)
