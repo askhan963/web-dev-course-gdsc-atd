@@ -51,6 +51,9 @@ Welcome to the Web Development course hosted by GDSC Abbottabad. This README wil
  Web Ninja 🥷
 </div>
 
+**👨‍🏫 Instructor Aid:**  
+** 1. Wania Khan**
+** 2. Maria Adil**
 ---
 
 🔜 More sessions will be added as the course progresses.
