@@ -1,0 +1,36 @@
+p {
+    color: blue;
+}
+ul li{
+    background-color: black;
+    margin: 10px auto;
+    color: white;
+    text-align: center;
+}
+
+
+.header , .footer {
+    color: white;
+    text-align: center;
+}
+
+
+#para{
+    background-color: blue;
+    color: white;
+    margin: 0 auto;
+}
+/* Properties */
+
+
+h2 {
+background-color: aqua;
+color: rgba(187, 13, 13,0.6);
+/* margin: left top right bottom; */
+/* margin-left: 200px; */
+margin: 10px auto;
+padding: 20px;
+border: 2px solid red;
+font-size: 40px;
+
+}
