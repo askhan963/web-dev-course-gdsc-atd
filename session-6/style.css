@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+.home{
+    height: 100vh;
+    background: url('./images/background.png');
+    background-color: #0000;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: -2px -26px 24px -15px rgba(255,255,255,0.75) inset;
+-webkit-box-shadow: -2px -26px 24px -15px rgba(255,255,255,0.75) inset;
+-moz-box-shadow: -2px -26px 24px -15px rgba(255,255,255,0.75) inset;
+
+}
+
+nav{
+    display: flex;
+    height: 100px;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    width: 100px;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+}
+.logo h1{
+    color: white;
+    font-size: 25px;
+}
+
+ul a{
+    padding: 10px;
+    color: rgba(255, 255, 255, 0.804);
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all ease-in 0.7s;
+}
+ul a:hover{
+    color: aquamarine;
+}
+
+/* Showcase Styles */
+
+.container{
+    width: 800px;
+    margin: 0 auto;
+    /* text-align: center; */
+}
+
+.container h1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 20px;
+    padding: 20px;
+}
+.container .para{
+    color: white;
+    margin: 16px;
+    padding: 16px;
+    text-align: center;
+    
+}
+.input{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.container input{
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px 16px;
+    border-radius: 10px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+}
+.input a img{
+    height: 30px;
+    margin-left: -40px;
+    margin-bottom: -12px;
+}
+.abosulte{
+    position: absolute;
+    bottom: 240px;
+    right: 100px;
+}
+
+/* Flex Container Section */
+
+.flex{
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+
+}
+.flex-item{
+    display: flex;
+    height: 200px;
+    align-items: center;
+    margin: 0 60px;
+}
+.flex-item img{
+    height:80px;
+}
+.flex-item div{
+    padding: 10px;
+}
