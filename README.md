@@ -13,7 +13,8 @@ Welcome to the Web Development course hosted by GDSC Abbottabad. This README wil
 - [📌 Session 4: Intro to CSS](https://github.com/askhan963/web-dev-course-gdsc-atd/tree/main/session-4)
 - [📌 Session 5: CSS Flex Box ](https://github.com/askhan963/web-dev-course-gdsc-atd/tree/main/session-5)
 - [📌 Session 6: Making a mini-site ](https://github.com/askhan963/web-dev-course-gdsc-atd/tree/main/session-6)
-- [📌 Session 7: Intro to Java ](https://github.com/askhan963/web-dev-course-gdsc-atd/tree/main/session-7)
+- [📌 Session 7: Intro to JavaScript ](https://github.com/askhan963/web-dev-course-gdsc-atd/tree/main/session-7)
+- [📌 Session 8: DOM Minupulation Using JS ](https://github.com/askhan963/web-dev-course-gdsc-atd/tree/main/session-8)
 
 
 ---
